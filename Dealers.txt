@@ -1,0 +1,6 @@
+['Amal Peris','0775656567','Bambalapitiya','LG Monitor','Canon Printer','Asus Mouse']
+['Nimal Nishantha','0723434342','Kollupitiya','32 Inch 4K Monitor','Logitech Keyboard','HP i3 Laptop']
+['Nimali Gunasekara','0760909876','Wellawaththa','Asus i3 Laptop','Asus i5 Laptop','Asus i7 Laptop']
+['Amasha Sandeepani','0711112098','Dehiwala','UPS','Epson Printer','23 Inch Asus Monitor']
+['Tharusha Withanage','0384576440','Bambalapitiya','Ryzen 7 Laptop','Gaming SU','RTX 2080 Grapgics Card']
+['Nisha Karunanayake','0783421219','Galkissa','Switch','Asus Keyboard','Canon Printer']

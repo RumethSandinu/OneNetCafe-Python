@@ -1,0 +1,7 @@
+[1, 'i3 Laptop', 'Lenovo', 120000.0, 1, 'Laptop', '1/1/2023']
+[2, 'i5 Laptop', 'HP', 135000.0, 2, 'Laptop', '1/1/2023']
+[3, 'Desktop', 'MSI', 100000.0, 4, 'PC', '1/1/2023']
+[4, 'Desktop', 'Dell', 115000.0, 2, 'PC', '3/1/2023']
+[5, 'Monitor', 'Dell', 13500.0, 8, 'Output Device', '3/1/2023']
+[6, 'Logitech Keyboard', 'Logitech', 6000.0, 2, 'Input Device', '4/1/2023']
+[7, 'Printer', 'Canon', 14500.0, 1, 'Output Device', '5/3/2023']
